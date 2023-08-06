@@ -3,7 +3,6 @@ module github.com/GarbhanK/stringer-cli
 go 1.20
 
 require (
-	github.com/ThorstenHans/stringer v0.0.0-20220328070231-e2300a2f1ea2
 	github.com/spf13/cobra v1.7.0
 )
 
